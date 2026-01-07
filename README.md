@@ -75,9 +75,3 @@ Multi-step forecasting.
 Advanced deep learning models and hyperparameter tuning (grid search, early stopping, dropout).
 
 Extend to other financial or time-series forecasting problems.
-
-
-
-
-
-ChatGPT can make mistakes. Check important info. See Cookie Preferences.
